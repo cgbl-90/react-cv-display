@@ -1,5 +1,30 @@
 const cv = [
   {
+    job: "Frontend development student",
+    date: "From July 2022 till present",
+    company: "SheCodes.io, etc.",
+    company_desc:
+      "Coding workshops to learn the latest coding frameworks, libraries and technologies.",
+    description: [
+      "Focusing on learning React.js and Angular and creating customer-centric experiences",
+    ],
+    industry: "Bootcamp",
+    keywords: [
+      "Responsive Web Design",
+      "Git",
+      "JavaScript",
+      "Cascading Style Sheets (CSS)",
+      "HTML",
+      "Bootstrap",
+      "React.js",
+      "Frontend Development",
+      "Web Design",
+      "TypeScript",
+      "jQuery",
+      "Node.js",
+    ],
+  },
+  {
     job: "User Happiness Manager",
     date: "From Aug 2021 till July 2022",
     company: "Remote.com",
@@ -146,6 +171,25 @@ const cv = [
       "Business Development",
       "Skype",
       "G-suite",
+    ],
+  },
+  {
+    job: "History and Mass Media Student",
+    date: "2010/2014 & 2015/2017",
+    company: "RUDN",
+    company_desc:
+      "Peoples' Friendship University of Russia (RUDN) is an international classical university with 7 faculties, 10 institutes, 156 research labs and 4 centres of collective use. Alma mater of students from 152 countries of the world that offers 18 Bachelor’s and Master’s educational programs with international accreditation.",
+    description: [
+      "These degrees were focused on the critical understanding of the human experience",
+      "Through the study of history and mass media, students develop an understanding of who we are, where we came from, how and why our society has changed over time and how humans have interacted with each other and with the natural world",
+      "Students can choose a subject to depend their studies: Archaeology, Ethnography, Classical History, Mass Media, others",
+    ],
+    industry: "history",
+    keywords: [
+      "Investigation",
+      "Creative writing",
+      "Critical thinking",
+      "Research skills",
     ],
   },
 ];
