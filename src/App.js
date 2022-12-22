@@ -7,7 +7,7 @@ import "./sass/App.css";
 
 function App() {
   const [current, setCurrent] = useState(0);
-  const [jobs, setJobs] = useState(data);
+  const [jobs] = useState(data);
   const currentJob = jobs[current];
 
   const changeCurrentJob = (index) => {
