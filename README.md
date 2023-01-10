@@ -1,6 +1,6 @@
-# React App
+# React CV component
 
-[React App](https://github.com/facebook/create-react-app).
+[DEMO](https://react-cv-experience-by-cgbl.netlify.app/)
 
 ## About
 
