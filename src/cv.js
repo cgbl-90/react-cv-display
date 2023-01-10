@@ -132,7 +132,7 @@ const cv = [
     description: [
       "Handle high amounts of live chat with players",
       "Identify and evaluate players' needs to deliver satisfaction",
-      "and-on for incident management, change management and response management",
+      "Handle incidents and communicate changes",
     ],
     industry: "Gaming",
     keywords: [
